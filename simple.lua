@@ -1,7 +1,5 @@
--- mod-version:2 -- lite-xl 2.0
-
+-- mod-version:3
 -- Copyright (c) 2022 Ashwin Godbole
--- MIT LICENSE
 
 -- the "core" module
 local core = require "core"
